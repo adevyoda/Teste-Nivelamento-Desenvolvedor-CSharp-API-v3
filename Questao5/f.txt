@@ -1,0 +1,558 @@
+ O volume na unidade C Ç Windows-SSD
+ O N£mero de SÇrie do Volume Ç 2A94-A221
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5
+
+18/03/2024  12:26    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:22    <DIR>          Application
+18/11/2022  10:42               127 appsettings.Development.json
+18/11/2022  11:08               201 appsettings.json
+18/03/2024  10:22    <DIR>          bin
+29/11/2022  10:52            32.768 database.sqlite
+18/03/2024  10:22    <DIR>          Domain
+18/03/2024  12:26                 0 f.txt
+18/03/2024  10:22    <DIR>          Infrastructure
+18/03/2024  11:42    <DIR>          obj
+18/11/2022  15:11             1.252 Program.cs
+18/03/2024  10:22    <DIR>          Properties
+18/11/2022  16:06             2.307 Questao5.csproj
+29/11/2022  10:52            30.342 Quest∆o 5.docx
+18/11/2022  10:42               286 WeatherForecast.cs
+               8 arquivo(s)         67.283 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  12:26    <DIR>          ..
+18/03/2024  10:22    <DIR>          Commands
+18/11/2022  14:32    <DIR>          Handlers
+18/03/2024  10:22    <DIR>          Queries
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Commands
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/11/2022  14:32    <DIR>          Requests
+18/11/2022  14:32    <DIR>          Responses
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Commands\Requests
+
+18/11/2022  14:32    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Commands\Responses
+
+18/11/2022  14:32    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Handlers
+
+18/11/2022  14:32    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Queries
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/11/2022  14:32    <DIR>          Requests
+18/11/2022  14:33    <DIR>          Responses
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Queries\Requests
+
+18/11/2022  14:32    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Application\Queries\Responses
+
+18/11/2022  14:33    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  12:26    <DIR>          ..
+18/03/2024  10:22    <DIR>          Debug
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          net6.0
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          cs
+18/03/2024  10:35    <DIR>          de
+18/03/2024  10:35    <DIR>          es
+18/03/2024  10:35    <DIR>          fr
+18/03/2024  10:35    <DIR>          it
+18/03/2024  10:35    <DIR>          ja
+18/03/2024  10:35    <DIR>          ko
+18/03/2024  10:35    <DIR>          pl
+18/03/2024  10:35    <DIR>          pt-BR
+18/03/2024  10:35    <DIR>          ru
+18/03/2024  10:22    <DIR>          runtimes
+18/03/2024  10:35    <DIR>          tr
+18/03/2024  10:35    <DIR>          zh-Hans
+18/03/2024  10:35    <DIR>          zh-Hant
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\cs
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\de
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\es
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\fr
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\it
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\ja
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\ko
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\pl
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\pt-BR
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\ru
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+18/03/2024  10:22    <DIR>          alpine-x64
+18/03/2024  10:22    <DIR>          linux-arm
+18/03/2024  10:22    <DIR>          linux-arm64
+18/03/2024  10:22    <DIR>          linux-armel
+18/03/2024  10:22    <DIR>          linux-musl-x64
+18/03/2024  10:22    <DIR>          linux-x64
+18/03/2024  10:22    <DIR>          linux-x86
+18/03/2024  10:22    <DIR>          osx-x64
+18/03/2024  10:22    <DIR>          win
+18/03/2024  10:22    <DIR>          win-arm
+18/03/2024  10:22    <DIR>          win-arm64
+18/03/2024  10:22    <DIR>          win-x64
+18/03/2024  10:22    <DIR>          win-x86
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\alpine-x64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\alpine-x64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-arm
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-arm\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-arm64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-arm64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-armel
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-armel\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-musl-x64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-musl-x64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-x64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-x64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-x86
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\linux-x86\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\osx-x64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\osx-x64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:22    <DIR>          lib
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win\lib
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          netstandard2.0
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-arm
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-arm\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-arm64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-arm64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-x64
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-x64\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-x86
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:35    <DIR>          native
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\runtimes\win-x86\native
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\tr
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\zh-Hans
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\bin\Debug\net6.0\zh-Hant
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  10:35    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Domain
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  12:26    <DIR>          ..
+18/11/2022  14:31    <DIR>          Entities
+18/11/2022  14:33    <DIR>          Enumerators
+18/11/2022  14:33    <DIR>          Language
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Domain\Entities
+
+18/11/2022  14:31    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Domain\Enumerators
+
+18/11/2022  14:33    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Domain\Language
+
+18/11/2022  14:33    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  12:26    <DIR>          ..
+18/03/2024  10:22    <DIR>          Database
+18/03/2024  10:22    <DIR>          Services
+18/03/2024  10:22    <DIR>          Sqlite
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:22    <DIR>          CommandStore
+18/03/2024  10:22    <DIR>          QueryStore
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database\CommandStore
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/11/2022  14:30    <DIR>          Requests
+18/11/2022  14:30    <DIR>          Responses
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database\CommandStore\Requests
+
+18/11/2022  14:30    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database\CommandStore\Responses
+
+18/11/2022  14:30    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database\QueryStore
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/11/2022  14:30    <DIR>          Requests
+18/11/2022  14:30    <DIR>          Responses
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database\QueryStore\Requests
+
+18/11/2022  14:30    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Database\QueryStore\Responses
+
+18/11/2022  14:30    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Services
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  10:22    <DIR>          Controllers
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Services\Controllers
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/11/2022  14:34             1.066 WeatherForecastController.cs
+               1 arquivo(s)          1.066 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Infrastructure\Sqlite
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+29/11/2022  10:50             3.152 DatabaseBootstrap.cs
+29/11/2022  10:50               424 DatabaseConfig.cs
+18/11/2022  14:27               121 IDatabaseBootstrap.cs
+               3 arquivo(s)          3.697 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\obj
+
+18/03/2024  11:42    <DIR>          .
+18/03/2024  12:26    <DIR>          ..
+18/03/2024  10:22    <DIR>          Debug
+18/03/2024  11:02           315.555 project.assets.json
+18/03/2024  11:42            15.754 project.nuget.cache
+18/03/2024  11:42             4.854 Questao5.csproj.nuget.dgspec.json
+18/03/2024  11:02             3.914 Questao5.csproj.nuget.g.props
+18/03/2024  10:26             1.745 Questao5.csproj.nuget.g.targets
+               5 arquivo(s)        341.822 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\obj\Debug
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  11:42    <DIR>          ..
+18/03/2024  11:02    <DIR>          net6.0
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\obj\Debug\net6.0
+
+18/03/2024  11:02    <DIR>          .
+18/03/2024  10:22    <DIR>          ..
+18/03/2024  11:02               198 .NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+18/03/2024  10:33           149.504 apphost.exe
+18/03/2024  11:02             1.042 Questao5.AssemblyInfo.cs
+18/03/2024  11:02                66 Questao5.AssemblyInfoInputs.cache
+18/03/2024  12:21            88.497 Questao5.assets.cache
+18/03/2024  11:02            21.872 Questao5.csproj.AssemblyReference.cache
+29/11/2022  10:50                 0 Questao5.csproj.BuildWithSkipAnalyzers
+18/03/2024  10:35            11.774 Questao5.csproj.FileListAbsolute.txt
+18/03/2024  11:02               993 Questao5.GeneratedMSBuildEditorConfig.editorconfig
+22/11/2022  15:08               770 Questao5.GlobalUsings.g.cs
+18/03/2024  10:35    <DIR>          ref
+18/03/2024  10:35    <DIR>          refint
+18/03/2024  10:35    <DIR>          staticwebassets
+              10 arquivo(s)        274.716 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\obj\Debug\net6.0\ref
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  11:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\obj\Debug\net6.0\refint
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  11:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\obj\Debug\net6.0\staticwebassets
+
+18/03/2024  10:35    <DIR>          .
+18/03/2024  11:02    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\webco\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3\Questao5\Properties
+
+18/03/2024  10:22    <DIR>          .
+18/03/2024  12:26    <DIR>          ..
+18/11/2022  10:42               837 launchSettings.json
+               1 arquivo(s)            837 bytes
+
+     Total de Arquivos na Lista:
+              28 arquivo(s)        689.421 bytes
+             224 pasta(s)   214.690.652.160 bytes dispon°veis
