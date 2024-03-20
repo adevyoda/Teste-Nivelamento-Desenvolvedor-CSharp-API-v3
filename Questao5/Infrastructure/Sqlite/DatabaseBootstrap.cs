@@ -1,5 +1,6 @@
 ﻿using Dapper;
 using Microsoft.Data.Sqlite;
+using Questao5.Domain.Entities;
 
 namespace Questao5.Infrastructure.Sqlite
 {
@@ -15,7 +16,7 @@ namespace Questao5.Infrastructure.Sqlite
         public void Setup()
         {
             using var connection = new SqliteConnection(databaseConfig.Name);
-
+            //connection.Execute("delete from contacorrente");
             var table = connection.Query<string>("SELECT name FROM sqlite_master WHERE type='table' AND (name = 'contacorrente' or name = 'movimento' or name = 'idempotencia');");
             var tableName = table.FirstOrDefault();
             if (!string.IsNullOrEmpty(tableName) && (tableName == "contacorrente" || tableName == "movimento" || tableName == "idempotencia"))

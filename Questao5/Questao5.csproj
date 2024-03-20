@@ -34,13 +34,17 @@
   <ItemGroup>
     <Folder Include="Application\Queries\Requests\" />
     <Folder Include="Application\Queries\Responses\" />
-    <Folder Include="Domain\Entities\" />
-    <Folder Include="Domain\Enumerators\" />
     <Folder Include="Domain\Language\" />
     <Folder Include="Infrastructure\Database\CommandStore\Requests\" />
     <Folder Include="Infrastructure\Database\CommandStore\Responses\" />
     <Folder Include="Infrastructure\Database\QueryStore\Requests\" />
     <Folder Include="Infrastructure\Database\QueryStore\Responses\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="database.sqlite">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
